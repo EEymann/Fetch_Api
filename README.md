@@ -1,6 +1,6 @@
 # _Working with the Fetch API_
 
-#### _This project demonstrates how to make network requests and handle responses with the Fetch API using Dog API - "The internet's biggest collection of open source dog pictures." [Dog API](dog.ceo). October 2020_
+#### _This project demonstrates how to make network requests and handle responses with the Fetch API using Dog API - "The internet's biggest collection of open source dog pictures." [Dog API](https://dog.ceo/dog-api/). October 2020_
 
 ## Description
 
