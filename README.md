@@ -4,7 +4,7 @@
 
 ## Description
 
-_This project comes from the course "Working with the Fetch API" for [Treehouse](https://teamtreehouse.com/).
+_This project comes from the course "Working with the Fetch API" for [Treehouse](https://teamtreehouse.com/)._
 
 ## Setup/Installation Requirements
 
@@ -13,7 +13,7 @@ _This project comes from the course "Working with the Fetch API" for [Treehouse]
 * _Click on index.html and the webpage will launch in your browser._
 * _Browse all the different dog breeds in the select menu._
 * _You can add you name and comment. The information you enter will appear in the console._
-* _Enjoy the dogs!_
+* _Enjoy the cuteness overload!_
 
 ## Technologies Used
 
